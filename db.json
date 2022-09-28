@@ -1,0 +1,19 @@
+{
+    "games": [
+        {
+            "name": "Call of Duty",
+            "img": "cod.jpg",
+            "id": "sfdsdf1"
+        },
+        {
+            "name": "Dreamlight Valley",
+            "img": "dreamlight.jpg",
+            "id": "fdgdfgdfg2"
+        },
+        {
+            "name": "Space Invaders",
+            "img": "cod.jpg",
+            "id": "432sdfsf"
+        }
+    ]
+}
