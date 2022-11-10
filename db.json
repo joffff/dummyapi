@@ -15,5 +15,85 @@
             "img": "cod.jpg",
             "id": "432sdfsf"
         }
+    ],
+    "blueprints": [
+        {
+            "description": "",
+            "fungible": true,
+            "game_id":"sfdsdf1",
+            "id":"bp_001",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        },
+        {
+            "description": "",
+            "fungible": true,
+            "game_id":"sfdsdf1",
+            "id":"bp_002",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        },
+        {
+            "description": "",
+            "fungible": true,
+            "game_id":"432sdfsf",
+            "id":"bp_003",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        },
+        {
+            "description": "",
+            "fungible": false,
+            "game_id":"fdgdfgdfg2",
+            "id":"bp_004",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        },
+        {
+            "description": "",
+            "fungible": false,
+            "game_id":"fdgdfgdfg2",
+            "id":"bp_005",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        },
+        {
+            "description": "",
+            "fungible": true,
+            "game_id":"sfdsdf1",
+            "id":"bp_006",
+            "image":"",
+            "name":"",
+            "properties": {
+                "value_1":"A",
+                "value_2":"B",
+                "value_3":"C"
+            }
+        }
     ]
 }
