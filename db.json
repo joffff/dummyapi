@@ -25,9 +25,9 @@
             "image":"",
             "name":"Venom Stroke Bow",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         },
         {
@@ -38,9 +38,9 @@
             "image":"",
             "name":"Argent Lance",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         },
         {
@@ -51,9 +51,9 @@
             "image":"",
             "name":"Assasin's Blade",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         },
         {
@@ -64,9 +64,9 @@
             "image":"",
             "name":"Blood Razor",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         },
         {
@@ -77,9 +77,9 @@
             "image":"",
             "name":"Dragon Soul",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         },
         {
@@ -90,9 +90,9 @@
             "image":"",
             "name":"Silver Sword",
             "properties": [
-                {"name":"Some property name"},
-                {"type":"prop_type_1"},
-                {"value":"Gold"}
+                {"name":"Some property name",
+                "type":"prop_type_1",
+                "value":"Gold"}
             ]
         }
     ]
