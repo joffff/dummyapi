@@ -28,7 +28,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "ACTIVE",
+            "cap": "LIMITED",
+            "limit": 100
         },
         {
             "description": "",
@@ -41,7 +44,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "DRAFT",
+            "cap": "UNLIMITED",
+            "limit": 0
         },
         {
             "description": "",
@@ -54,7 +60,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "ACTIVE",
+            "cap": "LIMITED",
+            "limit": 50
         },
         {
             "description": "",
@@ -67,7 +76,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "ACTIVE",
+            "cap": "UNLIMITED",
+            "limit": 0
         },
         {
             "description": "",
@@ -80,7 +92,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "ACTIVE",
+            "cap": "UNLIMITED",
+            "limit": 0
         },
         {
             "description": "",
@@ -93,7 +108,10 @@
                 {"name":"Some property name",
                 "type":"prop_type_1",
                 "value":"Gold"}
-            ]
+            ],
+            "status": "ACTIVE",
+            "cap": "UNLIMITED",
+            "limit": 0
         }
     ]
 }
